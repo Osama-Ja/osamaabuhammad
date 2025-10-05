@@ -21,6 +21,13 @@ My goal is to become a professional backend developer and contribute to impactfu
 
 ---
 
+### 🎯 Future Goals
+- 🌱 Learn new technologies like ASP.NET MVC and Entity Framework.
+- 📈 Develop and contribute to open-source projects.
+- 💼 Join a Backend development team and work on real-world projects.
+
+---
+
 ### 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/osama-abu-hammad-54232a215)  
 - 📧 Email: **osamaabuhammad28@gmail.com**  
