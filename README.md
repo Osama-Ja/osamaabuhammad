@@ -1,41 +1,36 @@
-# 👋 Hi, I'm Osama Abu Hammad  
+# 👋 Hi, I'm Osama Abu Hammad
 
-🎓 **Computer Science Graduate (2025)**  
-💻 **Aspiring Backend .NET Developer**  
-⚙️ Passionate about building efficient and scalable web applications  
-📚 Currently learning **C#**, **ASP.NET**, and **SQL**  
+### 🎓 Education
+- **Computer Science Graduate (2025)**
 
----
+### 💻 Aspiring Backend .NET Developer
+- ⚙️ Passionate about building efficient and scalable web applications  
+- 📚 Currently learning **C#**, **ASP.NET**, and **SQL**
 
-### 🧠 About Me  
+### 🧠 About Me
 I'm a curious and motivated learner who enjoys solving real-world problems with technology.  
-My goal is to become a professional backend developer and contribute to impactful software projects.  
+My goal is to become a professional backend developer and contribute to impactful software projects.
 
----
-
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 - **Languages:** C#, C++, SQL, JavaScript, HTML, CSS  
 - **Frameworks:** ASP.NET, .NET Core  
 - **Tools:** Git, GitHub, Visual Studio, VS Code  
-- **Database:** SQL Server  
-
----
+- **Database:** SQL Server
 
 ### 🎯 Future Goals
-- 🌱 Learn new technologies like ASP.NET MVC and Entity Framework.
-- 📈 Develop and contribute to open-source projects.
-- 💼 Join a Backend development team and work on real-world projects.
+- 🌱 Learn new technologies like **ASP.NET MVC** and **Entity Framework**  
+- 📈 Develop and contribute to **open-source projects**  
+- 💼 Join a **backend development team** and work on real-world projects
 
----
 ### 💼 Learning Projects
-- Currently learning ASP.NET and SQL through hands-on exercises.
-- Building small practice apps to understand backend development concepts.
+- Hands-on exercises with **ASP.NET** & **SQL**  
+- Building small apps to practice **backend development concepts**
 
-
-### 📫 Connect With Me  
+### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/osama-abu-hammad-54232a215)  
-- 📧 Email: **osamaabuhammad28@gmail.com**  
+- 📧 osamaabuhammad28@gmail.com
 
 ---
 
 ⭐ *“Code. Learn. Improve. Repeat.”*
+
