@@ -27,6 +27,10 @@ My goal is to become a professional backend developer and contribute to impactfu
 - 💼 Join a Backend development team and work on real-world projects.
 
 ---
+### 💼 Learning Projects
+- Currently learning ASP.NET and SQL through hands-on exercises.
+- Building small practice apps to understand backend development concepts.
+
 
 ### 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/osama-abu-hammad-54232a215)  
